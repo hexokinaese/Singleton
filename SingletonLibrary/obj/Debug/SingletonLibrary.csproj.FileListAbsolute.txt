@@ -1,0 +1,9 @@
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\obj\Debug\SingletonLibrary.csproj.AssemblyReference.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\obj\Debug\SingletonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\bin\Debug\SingletonLibrary.dll
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\bin\Debug\SingletonLibrary.pdb
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\bin\Debug\MySql.Data.dll
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\bin\Debug\MySql.Data.xml
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\obj\Debug\SingletonLibrary.csproj.CopyComplete
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\obj\Debug\SingletonLibrary.dll
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\SingletonLibrary\obj\Debug\SingletonLibrary.pdb

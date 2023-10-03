@@ -1,0 +1,13 @@
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\bin\Debug\MySql.Data.dll
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\bin\Debug\MySql.Data.xml
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\obj\Debug\Singleton.Form1.resources
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\obj\Debug\Singleton.csproj.CopyComplete
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\reminiscence\Downloads\diooidsj\кпз\Singleton\Singleton\obj\Debug\Singleton.pdb

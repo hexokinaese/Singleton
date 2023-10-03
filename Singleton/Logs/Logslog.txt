@@ -1,0 +1,7 @@
+select * from actor; 
+select * from city; 
+select * from payment; 
+select * from store; 
+select * from store; 
+select * from category; 
+select * from film; 
